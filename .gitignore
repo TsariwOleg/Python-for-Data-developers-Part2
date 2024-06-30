@@ -1,0 +1,9 @@
+.python-version
+__pycache__
+.pytest_cache
+.vscode
+.cache
+*.log
+.idea/
+.coverage
+coverage_report/
